@@ -1,0 +1,61 @@
+ul.horizontal{
+
+    padding: 10px;
+    margin: 50px;
+    border: 100px;
+    width: 100%;
+   height: auto;
+    
+}
+
+ul.horizontal li{
+    display:inline;
+    
+    padding:0 55px;
+     }
+
+#centro{
+   
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+}
+
+
+    nav ul li{
+        
+        /*Sombras para texto, los mismos parametros que box-shadow*/
+        text-shadow: 0px 1px 0px violet;
+    }
+
+
+    .borde1{
+        border-width: 2px;
+        border-color: black;
+   width: 100%;
+   height: auto;
+        border-style: double;
+        border-radius:30px;
+      
+        background-color:#1C4780;
+        overflow: hidden;
+
+    }
+
+    .boton_personalizado{
+        text-decoration: none;
+        padding: 10px;
+        font-weight: 600;
+        font-size: 20px;
+        color: #ffffff;
+        background-color: #1883ba;
+        border-radius: 6px;
+        border: 2px solid #0016b0;
+      }
+      .boton_personalizado:hover{
+        color: #1883ba;
+        background-color: #ffffff;
+      }
+
+   

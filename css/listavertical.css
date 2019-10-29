@@ -1,0 +1,15 @@
+.borde2{
+    border-width: 1px;
+    border-color: black;
+
+    border-style: double;
+    border-radius:30px;
+    background-color:floralwhite;
+    overflow: hidden;
+    float: left;
+    width: 16%;       
+}
+
+
+
+

@@ -1,0 +1,68 @@
+
+
+
+
+body{ background-color:#071929;}
+
+.blanco{
+
+    font-weight: normal;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#blanco{
+    font-weight: normal;
+    color: white;   
+}
+
+
+
+.bordecontacto{
+    border-width: 1px;
+    border-color:black;
+    border-style: double;
+    border-radius:30px;
+    background-color:floralwhite;
+    overflow: hidden;
+    float: left;
+    width: 16%;  
+}
+.aside{
+
+    font-weight: normal;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: -55px;
+
+}
+
+.NEGRO{
+    font-weight: bold;
+    color: black;
+    font-family: cursive, Helvetica, sans-serif;
+}
+
+.flota{
+    font-weight: lighter;
+  
+    font-family: 'Times New Roman', Times, serif;
+    border: 100px;
+     
+}
+
+.i{
+    margin-top: -10;
+
+    position: relative;
+}
+
+H3 {
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contacto{
+    color:black;
+    float: 30px;
+}

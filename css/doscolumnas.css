@@ -1,0 +1,58 @@
+body{ background-color:#071929;
+}
+
+
+
+
+p,a,h2{
+    color:white;
+}
+/*paginas visitadas*/
+a.azul:visited {
+    color:red;
+    }
+
+
+.borde3{
+    border-width: 1px;
+    border-color:black;
+
+    border-style: double;
+    border-radius:30px;
+    background-color:slategray;
+    overflow: hidden;
+    float: left;
+    width: 16%;       
+}
+
+.liyo{
+    color: white;
+}
+
+nav ul li{
+        
+          
+    /*Sombras para texto,*/
+    text-shadow: 0px 1px 0px #FFF;
+    color: white;
+}
+.titulo3{
+
+    width: 83%;
+    /*top: 10px;*/
+    
+    /*position: relative;
+    top: -500px;
+    left:120px;*/
+    
+    float: left;}
+    
+footer{
+    clear: both;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+

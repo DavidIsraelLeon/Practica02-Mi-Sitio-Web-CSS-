@@ -1,0 +1,53 @@
+*{ background-color:#071929;}
+
+
+p,h2{
+    color:white;
+
+}
+
+.fondo{
+    background-color: white;
+}
+
+.borde2{
+    border-width: 1px;
+    border-color:white;
+
+    border-style: double;
+    border-radius:30px;
+    /*background-color:floralwhite;*/
+    overflow: hidden;
+    float: left;
+    width: 16%;       
+}
+nav ul li{          
+    /*Sombras para texto, los mismos parametros que box-shadow*/
+    text-shadow: 0px 1px 0px #FFF;
+}
+
+.titulo{
+
+    width: 60%;
+    top: 10px;
+    
+    /*position: relative;
+    top: -500px;
+    left:120px;*/
+    
+    float: left;
+    
+}
+
+.titulo1{
+
+    width: 30%;
+
+    float: left;
+}
+
+footer{
+    clear: both;
+    font-family: 'Times New Roman', Times, serif;
+}
+
